@@ -1,0 +1,1 @@
+studied linear regression, residual error
